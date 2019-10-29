@@ -24,11 +24,13 @@ projects, and is yet to be updated to Laravel 6.0.
 
 ## The Vision 
 
+> Note: This is entirely fictional and none of the results from the test will be used by Langley Foxall.
+
 Our client would like a site developed that allows for retrieval of weather forecasts along with an email subscription 
 to weekly weather breakdowns. 
 
 They're looking to launch the site as a free tool that - once they've launched it and have a good amount of traffic - 
-creates profit through advertisements. Ideally it will be hosted under the domain **myweather.co.uk**.
+creates profit through advertisements. It will be hosted under the domain **myweather.co.uk**.
 
 There would be further phases of development to introduce this, but the client would like an MVP for an initial release.
 
@@ -47,7 +49,7 @@ The client has no specific requirements in terms of design.
 - Be able to sign up to the site.
   - Collect users preferred location.
 - Be able to log in to the site.
-- Once logged in, pull and display weather forecasts from the [Dark Sky weather API](https://darksky.net/dev) for the 
+- Once logged in, pull and display weather forecasts from the [Dark Sky Weather API](https://darksky.net/dev) for the 
 week in the users preferred location.
   - Be able to select a single day in order to display more information for that day.
   - Be able to change the location
@@ -58,4 +60,4 @@ The resulting repository can either be submitted via GitHub (Invite the person w
 a private repository), or via WeTransfer (without the dependency directories).
 
 ## Questions / Improvements
-Have any questions/improvements for the test? Submit a GitHub issue against the repository and we will get back to you.
+Have any questions/improvements for the test? Submit a GitHub issue against this repository and we will get back to you.
