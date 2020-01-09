@@ -15,7 +15,7 @@ You should complete this test yourself and shouldn't outsource any of the work.
 
 ## Tech Stack
 We primarily use Laravel and React for our web based systems, among other technologies - so we heavily prefer that you 
-use these for this test.
+use this stack for this test.
 
 There is the option to make the front end side of this task reactive, but this isn't necessary.
 
