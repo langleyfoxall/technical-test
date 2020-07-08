@@ -49,8 +49,8 @@ The client has no specific requirements in terms of design.
 - Be able to sign up to the site.
   - Collect users preferred location.
 - Be able to log in to the site.
-- Once logged in, pull and display weather forecasts from the [Weather Stack API](https://weatherstack.com/) for the 
-week in the users preferred location. (This has been recently updated from Dark Sky, since they we're bought out by Apple)
+- Once logged in, pull and display weather forecasts from the [Open Weather API](https://openweathermap.org/api) for the 
+week in the users preferred location. (This has been recently updated from Dark Sky, since they were purchased by Apple)
   - Be able to select a single day in order to display more information for that day.
   - Be able to change the location
 - Every Sunday morning - send an email to all users for an overview of weather in their preferred location for the week.
