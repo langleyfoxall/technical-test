@@ -19,9 +19,6 @@ use this stack for this test.
 
 There is the option to make the front end side of this task reactive, but this isn't necessary.
 
-You could use our [boilerplate](https://github.com/langleyfoxall/laravel-boilerplate), but it is more geared towards larger
-projects, and is yet to be updated to Laravel 6.0.
-
 ## The Vision 
 
 > Note: This is entirely fictional and none of the results from the test will be used by Langley Foxall.
